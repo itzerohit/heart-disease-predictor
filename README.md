@@ -15,7 +15,7 @@ This project aims to use various ML models to predict heart disease based on pat
 ## 🚀 Demo
 
 Try the live demo (if deployed):  
-**[🔗 Live App](#)** ← *(Add your link here if you deploy on Streamlit Cloud or Render)*
+**[🔗 Live App](#)** ← *(https://heart-disease-predictor-kwdwpdqmkwj8jbr4jgbsmk.streamlit.app/)*
 
 ---
 
